@@ -1,0 +1,23 @@
+{
+    "name": "mean-todos",
+    "description": "mean stack example",
+    "main": "server.js",
+    "authors": [
+        "Ankur Patel"
+    ],
+    "license": "none",
+    "keywords": [
+        "mean"
+    ],
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "^3.3.7"
+    }
+}
