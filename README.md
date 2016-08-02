@@ -1,7 +1,7 @@
 # Todos using MEAN stack with Angular2
 
-## install supported 
-`npm install1` on root and inside client folder
+## install  
+`npm install` on root and inside client folder
 
 make directories "/data/db"
 
